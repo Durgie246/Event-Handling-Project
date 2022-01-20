@@ -1,0 +1,14 @@
+.body_background 
+{
+    background-image:url(hOye.gif);
+    background-position:center;
+    background-size:cover;
+}
+#myCanvas
+{
+    border-style: ridge;
+    background-color: white;
+    border-color: green;
+    border-width: 20px; 
+    background-image:url(BirthdayImage.jpg);
+}
